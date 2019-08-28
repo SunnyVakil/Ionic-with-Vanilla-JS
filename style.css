@@ -1,0 +1,9 @@
+ion-card-title {
+    color: #fd1d1d;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+ion-button {
+    margin-top: 1em;
+}
